@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1576171015 source:c:\users\user\google drive\cse 28\1-2\oop lab (c++)\project\isp management\functions.cpp
+	<fstream>
+
+1582156276 source:c:\users\merajmasuk\google drive\cse 28\1-2\oop lab (c++)\project\isp management\main.cpp
+	<climits>
+	"admin.h"
+	"client.h"
+
+1582156471 c:\users\merajmasuk\google drive\cse 28\1-2\oop lab (c++)\project\isp management\user.h
+	"functions.h"
+
+1581974352 c:\users\merajmasuk\google drive\cse 28\1-2\oop lab (c++)\project\isp management\admin.h
+	"user.h"
+
+1577461478 c:\users\merajmasuk\google drive\cse 28\1-2\oop lab (c++)\project\isp management\customer.h
+	"user.h"
+
+1577615093 source:c:\users\merajmasuk\google drive\cse 28\1-2\oop lab (c++)\project\isp management\user.cpp
+	"user.h"
+
+1581975414 source:c:\users\merajmasuk\google drive\cse 28\1-2\oop lab (c++)\project\isp management\admin.cpp
+	"admin.h"
+
+1577614444 source:c:\users\merajmasuk\google drive\cse 28\1-2\oop lab (c++)\project\isp management\customer.cpp
+	"customer.h"
+
+1581974370 c:\users\merajmasuk\google drive\cse 28\1-2\oop lab (c++)\project\isp management\client.h
+	"user.h"
+	"package.h"
+
+1582545826 source:c:\users\merajmasuk\google drive\cse 28\1-2\oop lab (c++)\project\isp management\client.cpp
+	"client.h"
+
+1582546079 c:\users\merajmasuk\google drive\cse 28\1-2\oop lab (c++)\project\isp management\package.h
+	"standard.h"
+	"premium.h"
+
+1582567325 c:\users\merajmasuk\google drive\cse 28\1-2\oop lab (c++)\project\isp management\standard.h
+	"functions.h"
+
+1582567339 c:\users\merajmasuk\google drive\cse 28\1-2\oop lab (c++)\project\isp management\premium.h
+	"functions.h"
+
+1582545870 source:c:\users\merajmasuk\google drive\cse 28\1-2\oop lab (c++)\project\isp management\premium.cpp
+	"premium.h"
+
+1582567411 source:c:\users\merajmasuk\google drive\cse 28\1-2\oop lab (c++)\project\isp management\standard.cpp
+	"standard.h"
+
+1582546060 source:c:\users\merajmasuk\google drive\cse 28\1-2\oop lab (c++)\project\isp management\package.cpp
+	"package.h"
+
+1582567284 c:\users\merajmasuk\google drive\cse 28\1-2\oop lab (c++)\project\isp management\functions.h
+	<iomanip>
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+
+1582156298 source:c:\users\merajmasuk\google drive\cse 28\1-2\oop lab (c++)\project\isp management\functions.cpp
+	"functions.h"
+
